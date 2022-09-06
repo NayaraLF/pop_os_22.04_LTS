@@ -1,0 +1,11 @@
+
+#Problemas com a instalação de pacotes no R.
+
+sudo apt-get install libmagick++-dev
+
+sudo apt get update
+
+
+#para acessar o terminal como root
+
+su root
