@@ -1,4 +1,7 @@
 
+
+sudo
+
 #Problemas com a instalação de pacotes no R.
 
 sudo apt-get install libmagick++-dev
