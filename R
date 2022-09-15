@@ -6,7 +6,7 @@ sudo
 
 sudo apt-get install libmagick++-dev
 
-sudo apt get update
+sudo apt update
 
 
 #para acessar o terminal como root
